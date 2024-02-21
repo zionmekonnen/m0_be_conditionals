@@ -99,6 +99,7 @@ age = 1
 
 
 # Determine if the dog loves to play and is a puppy
+# Assume that a dog is a puppy if it is less than 2 years old.
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
 # ANSWER:
